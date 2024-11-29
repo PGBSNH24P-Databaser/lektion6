@@ -66,7 +66,7 @@ WHERE users.name = 'Ironman';
 
 # Introduktion till normalisering
 
-En samling med sätt, så kallade normalformer, att designa och strukturera tabeller för att uppnå integritet och förhinda data duplicering.
+En samling med sätt, så kallade normalformer, att designa och strukturera tabeller för att uppnå integritet och förhindra data duplicering.
 
 Normalformer: 1NF, 2NF & 3NF. Varje form har specifika regler att följa.
 
